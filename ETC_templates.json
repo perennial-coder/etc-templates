@@ -1,0 +1,9 @@
+{
+  "Github_demo": {
+    "labels": [
+      "SomeVar",
+      "SomeFoo"
+    ],
+    "text": "Yo SomeVar {1}, here is SomeFoo {2}"
+  }
+}
