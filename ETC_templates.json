@@ -6,4 +6,12 @@
     ],
     "text": "Yo SomeVar {1}, here is SomeFoo {2}"
   }
+},
+{
+  "Install": {
+    "labels": [
+      "(hosted) install",
+    ],
+    "text": "{1}"
+  }
 }
